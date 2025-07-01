@@ -11,7 +11,7 @@ I’m building an end-to-end cloud deployment for a Dockerised React app using *
 
 📚 **Currently Learning**  
 Preparing for the **Certified Kubernetes Administrator (CKA)** exam.  
-Exploring GitOps, policy-as-code, and platform engineering best practices.
+Exploring Taking a deeper dive into **Kubernetes** and exploring **MLOps** concepts.
 
 ---
 
@@ -28,4 +28,4 @@ Exploring GitOps, policy-as-code, and platform engineering best practices.
 ---
 
 📫 **Let’s Connect**  
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) • [Twitter](https://twitter.com/YOUR-HANDLE) • [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/yasin-h-0145a8170/) • 
