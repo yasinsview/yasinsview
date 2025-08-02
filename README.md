@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Hassan</h1>
-<h3 align="center">Senior Cloud Engineer | AWS | Terraform | Kubernetes</h3>
+<h3 align="center">Senior DevOps Engineer | AWS | Terraform | Kubernetes</h3>
 
 ---
 
